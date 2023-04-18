@@ -1,0 +1,348 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-04-17T22:17:22.551Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-04-17T23:38:52.551Z"
+    },
+    {
+      "id": 3,
+      "description": "Consulta médica",
+      "type": "outcome",
+      "category": "Saúde",
+      "price": 150,
+      "createdAt": "2023-04-16T12:05:00.000Z"
+    },
+    {
+      "id": 4,
+      "description": "Venda de produtos eletrônicos",
+      "type": "income",
+      "category": "Venda",
+      "price": 12500,
+      "createdAt": "2023-04-15T18:30:00.000Z"
+    },
+    {
+      "id": 5,
+      "description": "Conta de água",
+      "type": "outcome",
+      "category": "Contas",
+      "price": 100,
+      "createdAt": "2023-04-14T08:15:00.000Z"
+    },
+    {
+      "id": 6,
+      "description": "Freelance de tradução",
+      "type": "income",
+      "category": "Serviços",
+      "price": 500,
+      "createdAt": "2023-04-13T14:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "description": "Café da manhã",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 20,
+      "createdAt": "2023-04-12T06:45:00.000Z"
+    },
+    {
+      "id": 8,
+      "description": "Salário",
+      "type": "income",
+      "category": "Salário",
+      "price": 6000,
+      "createdAt": "2023-04-11T15:30:00.000Z"
+    },
+    {
+      "id": 9,
+      "description": "Compra de material de escritório",
+      "type": "outcome",
+      "category": "Material de Escritório",
+      "price": 200,
+      "createdAt": "2023-04-10T10:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "description": "Venda de produtos esportivos",
+      "type": "income",
+      "category": "Venda",
+      "price": 8000,
+      "createdAt": "2023-04-09T17:45:00.000Z"
+    },
+    {
+      "id": 11,
+      "description": "Aluguel do espaço para reunião",
+      "type": "outcome",
+      "category": "Aluguel",
+      "price": 300,
+      "createdAt": "2023-04-08T08:30:00.000Z"
+    },
+    {
+      "id": 12,
+      "description": "Venda de bicicletas",
+      "type": "income",
+      "category": "Venda",
+      "price": 3000,
+      "createdAt": "2023-04-07T14:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "description": "Assinatura de revista",
+      "type": "outcome",
+      "category": "Entretenimento",
+      "price": 25,
+      "createdAt": "2023-04-06T12:30:00.000Z"
+    },
+    {
+      "id": 14,
+      "description": "Venda de joias",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2023-04-05T18:15:00.000Z"
+    },
+    {
+      "id": 15,
+      "description": "Pagamento de aluguel do espaço de trabalho",
+      "type": "outcome",
+      "category": "Aluguel",
+      "price": 1000,
+      "createdAt": "2023-04-04T09:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "description": "Venda de produtos de beleza",
+      "type": "income",
+      "category": "Venda",
+      "price": 1500,
+      "createdAt": "2023-04-03T17:45:00.000Z"
+    },
+    {
+      "id": 17,
+      "description": "Pagamento de mensalidade de academia",
+      "type": "outcome",
+      "category": "Saúde",
+      "price": 200,
+      "createdAt": "2023-04-02T10:30:00.000Z"
+    },
+    {
+      "id": 18,
+      "description": "Venda de produtos agrícolas",
+      "type": "income",
+      "category": "Venda",
+      "price": 7500,
+      "createdAt": "2023-04-01T15:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "description": "Pagamento de empréstimo pessoal",
+      "type": "outcome",
+      "category": "Empréstimo",
+      "price": 500,
+      "createdAt": "2023-03-31T11:15:00.000Z"
+    },
+    {
+      "id": 20,
+      "description": "Venda de artigos de decoração",
+      "type": "income",
+      "category": "Venda",
+      "price": 4000,
+      "createdAt": "2023-03-30T19:30:00.000Z"
+    },
+    {
+      "id": 21,
+      "description": "Despesas com transporte de carga",
+      "type": "outcome",
+      "category": "Transporte",
+      "price": 300,
+      "createdAt": "2023-03-29T08:45:00.000Z"
+    },
+    {
+      "id": 22,
+      "description": "Venda de suplementos alimentares",
+      "type": "income",
+      "category": "Venda",
+      "price": 2500,
+      "createdAt": "2023-03-28T16:00:00.000Z"
+    },
+    {
+      "id": 23,
+      "description": "Pagamento de conta de telefone",
+      "type": "outcome",
+      "category": "Contas",
+      "price": 120,
+      "createdAt": "2023-03-27T09:30:00.000Z"
+    },
+    {
+      "id": 24,
+      "description": "Venda de eletrônicos usados",
+      "type": "income",
+      "category": "Venda",
+      "price": 800,
+      "createdAt": "2023-03-26T14:15:00.000Z"
+    },
+    {
+      "id": 25,
+      "description": "Manutenção de equipamentos de informática",
+      "type": "outcome",
+      "category": "Manutenção",
+      "price": 500,
+      "createdAt": "2023-03-25T11:00:00.000Z"
+    },
+    {
+      "id": 26,
+      "description": "Venda de produtos naturais",
+      "type": "income",
+      "category": "Venda",
+      "price": 1200,
+      "createdAt": "2023-03-24T19:45:00.000Z"
+    },
+    {
+      "id": 27,
+      "description": "Compra de material de limpeza",
+      "type": "outcome",
+      "category": "Material de Limpeza",
+      "price": 80,
+      "createdAt": "2023-03-23T10:30:00.000Z"
+    },
+    {
+      "id": 28,
+      "description": "Venda de produtos pet",
+      "type": "income",
+      "category": "Venda",
+      "price": 3000,
+      "createdAt": "2023-03-22T17:15:00.000Z"
+    },
+    {
+      "id": 29,
+      "description": "Custo de frete para entrega de produtos",
+      "type": "outcome",
+      "category": "Transporte",
+      "price": 80,
+      "createdAt": "2023-03-21T08:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "description": "Venda de produtos de limpeza",
+      "type": "income",
+      "category": "Venda",
+      "price": 1500,
+      "createdAt": "2023-03-20T16:45:00.000Z"
+    },
+    {
+      "id": 31,
+      "description": "Assinatura de serviço de streaming de música",
+      "type": "outcome",
+      "category": "Entretenimento",
+      "price": 15,
+      "createdAt": "2023-03-19T09:30:00.000Z"
+    },
+    {
+      "id": 32,
+      "description": "Venda de produtos de informática",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2023-03-18T14:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "description": "Pagamento de conta de luz",
+      "type": "outcome",
+      "category": "Contas",
+      "price": 80,
+      "createdAt": "2023-03-17T11:30:00.000Z"
+    },
+    {
+      "id": 34,
+      "description": "Venda de artigos de jardinagem",
+      "type": "income",
+      "category": "Venda",
+      "price": 1000,
+      "createdAt": "2023-03-16T16:15:00.000Z"
+    },
+    {
+      "id": 35,
+      "description": "Manutenção de ar-condicionado",
+      "type": "outcome",
+      "category": "Manutenção",
+      "price": 250,
+      "createdAt": "2023-03-15T09:00:00.000Z"
+    },
+    {
+      "id": 36,
+      "description": "Venda de produtos para artesanato",
+      "type": "income",
+      "category": "Venda",
+      "price": 800,
+      "createdAt": "2023-03-14T17:45:00.000Z"
+    },
+    {
+      "id": 37,
+      "description": "Pagamento de mensalidade de escola",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 500,
+      "createdAt": "2023-03-13T10:30:00.000Z"
+    },
+    {
+      "id": 38,
+      "description": "Venda de produtos para cuidados pessoais",
+      "type": "income",
+      "category": "Venda",
+      "price": 2000,
+      "createdAt": "2023-03-12T18:15:00.000Z"
+    },
+    {
+      "id": 39,
+      "description": "Custo de frete para entrega de encomendas",
+      "type": "outcome",
+      "category": "Transporte",
+      "price": 100,
+      "createdAt": "2023-03-11T11:00:00.000Z"
+    },
+    {
+      "id": 40,
+      "description": "Venda de produtos para casa e decoração",
+      "type": "income",
+      "category": "Venda",
+      "price": 3000,
+      "createdAt": "2023-03-10T16:45:00.000Z"
+    },
+    {
+      "id": 41,
+      "description": "Assinatura de serviço de delivery de comida",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-03-09T09:30:00.000Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-04-18T01:40:29.674Z",
+      "id": 42
+    },
+    {
+      "description": "Curso Rocketseat",
+      "price": 1660,
+      "category": "Formação",
+      "type": "outcome",
+      "createdAt": "2023-04-18T01:56:11.778Z",
+      "id": 43
+    }
+  ]
+}
